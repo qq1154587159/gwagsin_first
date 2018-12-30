@@ -6,4 +6,8 @@ public class TestGit {
         System.out.println("克隆项目后第一次修改");
         System.out.println("克隆项目后第二次修改");
     }
+
+    public static void mainTest() {
+        System.out.println("主项目更新代码");
+    }
 }
